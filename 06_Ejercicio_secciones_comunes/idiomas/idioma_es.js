@@ -1,0 +1,1 @@
+var alert_nombre = "Nombre obligatorio";
